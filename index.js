@@ -1,4 +1,4 @@
-import Person from "./person.js";
+const { Person } = require("./person");
 
 require("./modules/path");
 
